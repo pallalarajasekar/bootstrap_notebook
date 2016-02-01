@@ -1,0 +1,42 @@
+/*
+div {
+    background-color: #FF6600;
+    border: 1px solid black;
+}
+*/
+.panel-heading{
+    background-color: darkmagenta;
+}
+.panel-title{
+    color: lightcoral;
+}
+
+
+
+
+/*
+@media (max-width: 200px) {
+    div {
+        background-color: lawngreen;
+        border: 1px solid black;
+    }
+}
+@media (min-width: 201px) and (max-width: 500px) {
+    div {
+        background-color: wheat;
+        border: 1px solid black;
+    }
+}
+@media (min-width: 501px) and (max-width: 1200px) {
+    div {
+        background-color: orangered;
+        border: 1px solid black;
+    }
+}
+@media (min-width: 1201px) {
+    div {
+        background-color: #00b3ee;
+        border: 1px solid black;
+    }
+}
+*/
