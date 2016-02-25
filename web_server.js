@@ -22,3 +22,26 @@ app.get('/', function(req, res){
 app.get('/test', function(req, res){
     res.render("test")
 })
+app.get('/tabjs', function(req, res){
+    res.render("tabjs")
+})
+
+app.get('/carousel', function(req, res){
+    res.render("carousel")
+})
+
+app.get('/carouseldemo', function(req, res){
+    res.render("carouseldemo")
+})
+
+app.get('/bootstrapcarousel', function(req, res){
+    res.render("bootstrapcarousel")
+})
+
+app.get('/cover', function(req, res){
+    res.render("cover")
+})
+
+app.get('/coverdemo', function(req, res){
+    res.render("coverdemo")
+})
